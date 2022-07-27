@@ -20,22 +20,22 @@ o1 = 0; o2 = 0; o3 = 0; o4 = 0; o5 = 0; o6 = 0; o7 = 0; o8 = 0; o9 = 0; o10 = 0;
 p1 = 0; p2 = 0; p3 = 0; p4 = 0; p5 = 0; p6 = 0; p7 = 0; p8 = 0; p9 = 0; p10 = 0; p11 = 0; p12 = 0; p13 = 0; p14 = 0; p15 = 0; p16 = 0; p17 = 0
 r1 = 0; r2 = 0; r3 = 0; r4 = 0; r5 = 0; r6 = 0; r7 = 0; r8 = 0; r9 = 0; r10 = 0; r11 = 0; r12 = 0; r13 = 0; r14 = 0; r15 = 0; r16 = 0; r17 = 0
 
-a1b = False; a2b = False; a3b = False; a4b = False; a5b = False; a6b = False; a7b = False; a8b = False; a9b = False; a10b = 0; a11b = 0; a12b = 0; a13b = 0; a14b = 0; a15b = 0; a16b = 0; a17b = 0
-b1b = False; b2b = False; b3b = False; b4b = False; b5b = False; b6b = False; b7b = False; b8b = False; b9b = False; b10b = 0; b11b = 0; b12b = 0; b13b = 0; b14b = 0; b15b = 0; b16b = 0; b17b = 0
-c1b = False; c2b = False; c3b = False; c4b = False; c5b = False; c6b = False; c7b = False; c8b = False; c9b = False; c10b = 0; c11b = 0; c12b = 0; c13b = 0; c14b = 0; c15b = 0; c16b = 0; c17b = 0
-d1b = False; d2b = False; d3b = False; d4b = False; d5b = False; d6b = False; d7b = False; d8b = False; d9b = False; d10b = 0; d11b = 0; d12b = 0; d13b = 0; d14b = 0; d15b = 0; d16b = 0; d17b = 0
-e1b = False; e2b = False; e3b = False; e4b = False; e5b = False; e6b = False; e7b = False; e8b = False; e9b = False; e10b = 0; e11b = 0; e12b = 0; e13b = 0; e14b = 0; e15b = 0; e16b = 0; e17b = 0
-f1b = False; f2b = False; f3b = False; f4b = False; f5b = False; f6b = False; f7b = False; f8b = False; f9b = False; f10b = 0; f11b = 0; f12b = 0; f13b = 0; f14b = 0; f15b = 0; f16b = 0; f17b = 0
-g1b = False; g2b = False; g3b = False; g4b = False; g5b = False; g6b = False; g7b = False; g8b = False; g9b = False; g10b = 0; g11b = 0; g12b = 0; g13b = 0; g14b = 0; g15b = 0; g16b = 0; g17b = 0
-h1b = False; h2b = False; h3b = False; h4b = False; h5b = False; h6b = False; h7b = False; h8b = False; h9b = False; h10b = 0; h11b = 0; h12b = 0; h13b = 0; h14b = 0; h15b = 0; h16b = 0; h17b = 0
-i1b = False; i2b = False; i3b = False; i4b = False; i5b = False; i6b = False; i7b = False; i8b = False; i9b = False; i10b = 0; i11b = 0; i12b = 0; i13b = 0; i14b = 0; i15b = 0; i16b = 0; i17b = 0
-j1b = False; j2b = False; j3b = False; j4b = False; j5b = False; j6b = False; j7b = False; j8b = False; j9b = False; j10b = 0; j11b = 0; j12b = 0; j13b = 0; j14b = 0; j15b = 0; j16b = 0; j17b = 0
-k1b = False; k2b = False; k3b = False; k4b = False; k5b = False; k6b = False; k7b = False; k8b = False; k9b = False; k10b = 0; k11b = 0; k12b = 0; k13b = 0; k14b = 0; k15b = 0; k16b = 0; k17b = 0
-l1b = False; l2b = False; l3b = False; l4b = False; l5b = False; l6b = False; l7b = False; l8b = False; l9b = False; l10b = 0; l11b = 0; l12b = 0; l13b = 0; l14b = 0; l15b = 0; l16b = 0; l17b = 0
-m1b = False; m2b = False; m3b = False; m4b = False; m5b = False; m6b = False; m7b = False; m8b = False; m9b = False; m10b = 0; m11b = 0; m12b = 0; m13b = 0; m14b = 0; m15b = 0; m16b = 0; m17b = 0
-n1b = False; n2b = False; n3b = False; n4b = False; n5b = False; n6b = False; n7b = False; n8b = False; n9b = False; n10b = 0; n11b = 0; n12b = 0; n13b = 0; n14b = 0; n15b = 0; n16b = 0; n17b = 0
-o1b = False; o2b = False; o3b = False; o4b = False; o5b = False; o6b = False; o7b = False; o8b = False; o9b = False; o10b = 0; o11b = 0; o12b = 0; o13b = 0; o14b = 0; o15b = 0; o16b = 0; o17b = 0
-p1b = False; p2b = False; p3b = False; p4b = False; p5b = False; p6b = False; p7b = False; p8b = False; p9b = False; p10b = 0; p11b = 0; p12b = 0; p13b = 0; p14b = 0; p15b = 0; p16b = 0; p17b = 0
+a1b = False; a2b = False; a3b = False; a4b = False; a5b = False; a6b = False; a7b = False; a8b = False; a9b = False; a10b = False; a11b = False; a12b = False; a13b = False; a14b = False; a15b = False; a16b = False; a17b = False
+b1b = False; b2b = False; b3b = False; b4b = False; b5b = False; b6b = False; b7b = False; b8b = False; b9b = False; b10b = False; b11b = False; b12b = False; b13b = False; b14b = False; b15b = False; b16b = False; b17b = False
+c1b = False; c2b = False; c3b = False; c4b = False; c5b = False; c6b = False; c7b = False; c8b = False; c9b = False; c10b = False; c11b = False; c12b = False; c13b = False; c14b = False; c15b = False; c16b = False; c17b = False
+d1b = False; d2b = False; d3b = False; d4b = False; d5b = False; d6b = False; d7b = False; d8b = False; d9b = False; d10b = False; d11b = False; d12b = False; d13b = False; d14b = False; d15b = False; d16b = False; d17b = False
+e1b = False; e2b = False; e3b = False; e4b = False; e5b = False; e6b = False; e7b = False; e8b = False; e9b = False; e10b = False; e11b = False; e12b = False; e13b = False; e14b = False; e15b = False; e16b = False; e17b = False
+f1b = False; f2b = False; f3b = False; f4b = False; f5b = False; f6b = False; f7b = False; f8b = False; f9b = False; f10b = False; f11b = False; f12b = False; f13b = False; f14b = False; f15b = False; f16b = False; f17b = False
+g1b = False; g2b = False; g3b = False; g4b = False; g5b = False; g6b = False; g7b = False; g8b = False; g9b = False; g10b = False; g11b = False; g12b = False; g13b = False; g14b = False; g15b = False; g16b = False; g17b = False
+h1b = False; h2b = False; h3b = False; h4b = False; h5b = False; h6b = False; h7b = False; h8b = False; h9b = False; h10b = False; h11b = False; h12b = False; h13b = False; h14b = False; h15b = False; h16b = False; h17b = False
+i1b = False; i2b = False; i3b = False; i4b = False; i5b = False; i6b = False; i7b = False; i8b = False; i9b = False; i10b = False; i11b = False; i12b = False; i13b = False; i14b = False; i15b = False; i16b = False; i17b = False
+j1b = False; j2b = False; j3b = False; j4b = False; j5b = False; j6b = False; j7b = False; j8b = False; j9b = False; j10b = False; j11b = False; j12b = False; j13b = False; j14b = False; j15b = False; j16b = False; j17b = False
+k1b = False; k2b = False; k3b = False; k4b = False; k5b = False; k6b = False; k7b = False; k8b = False; k9b = False; k10b = False; k11b = False; k12b = False; k13b = False; k14b = False; k15b = False; k16b = False; k17b = False
+l1b = False; l2b = False; l3b = False; l4b = False; l5b = False; l6b = False; l7b = False; l8b = False; l9b = False; l10b = False; l11b = False; l12b = False; l13b = False; l14b = False; l15b = False; l16b = False; l17b = False
+m1b = False; m2b = False; m3b = False; m4b = False; m5b = False; m6b = False; m7b = False; m8b = False; m9b = False; m10b = False; m11b = False; m12b = False; m13b = False; m14b = False; m15b = False; m16b = False; m17b = False
+n1b = False; n2b = False; n3b = False; n4b = False; n5b = False; n6b = False; n7b = False; n8b = False; n9b = False; n10b = False; n11b = False; n12b = False; n13b = False; n14b = False; n15b = False; n16b = False; n17b = False
+o1b = False; o2b = False; o3b = False; o4b = False; o5b = False; o6b = False; o7b = False; o8b = False; o9b = False; o10b = False; o11b = False; o12b = False; o13b = False; o14b = False; o15b = False; o16b = False; o17b = False
+p1b = False; p2b = False; p3b = False; p4b = False; p5b = False; p6b = False; p7b = False; p8b = False; p9b = False; p10b = False; p11b = False; p12b = False; p13b = False; p14b = False; p15b = False; p16b = False; p17b = False
 r1b = False; r2b = False; r3b = False; r4b = False; r5b = False; r6b = False; r7b = False; r8b = False; r9b = False; r10b = False; r11b = False; r12b = False; r13b = False; r14b = False; r15b = False; r16b = False; r17b = False
 
 kk = 1
@@ -940,11 +940,86 @@ while kk == 1:
 
     birinciInput = input()
     if birinciInput == "a1":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
         ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
         if ikinciInput == "1":
             a1 = 1
-        if ikinciInput == "2":
-            a1b =
+        if ikinciInput == "2" and not a1 == 1:
+            a1b = not a1b
+            if a1b == True:a1 = 2
+            if a1b == False:a1 = 0
+    if birinciInput == "a2":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            a2 = 1
+        if ikinciInput == "2" and not a2 == 1:
+            a2b = not a2b
+            if a2b == True:a2 = 2
+            if a2b == False:a2 = 0
+    if birinciInput == "a3":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            a3 = 1
+        if ikinciInput == "2" and not a3 == 1:
+            a3b = not a3b
+            if a3b == True:a3 = 2
+            if a3b == False:a3 = 0
+    if birinciInput == "a4":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            a4 = 1
+        if ikinciInput == "2" and not a4 == 1:
+            a4b = not a4b
+            if a4b == True:a4 = 2
+            if a4b == False:a4 = 0
+    if birinciInput == "a5":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            a5 = 1
+        if ikinciInput == "2" and not a5 == 1:
+            a5b = not a5b
+            if a5b == True:a5 = 2
+            if a5b == False:a5 = 0
+
+
+
+
+
+
+
+
+
+
+
 
             
 
