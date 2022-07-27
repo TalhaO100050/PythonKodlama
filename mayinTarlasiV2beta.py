@@ -1177,6 +1177,244 @@ while kk == 1:
             a17b = not a17b
             if a17b == True:a17 = 2
             if a17b == False:a17 = 0
+    if birinciInput == "b1":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b1 = 1
+        if ikinciInput == "2" and not b1 == 1:
+            b1b = not b1b
+            if b1b == True:b1 = 2
+            if b1b == False:b1 = 0
+    if birinciInput == "b2":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b2 = 1
+        if ikinciInput == "2" and not b2 == 1:
+            b2b = not b2b
+            if b2b == True:b2 = 2
+            if b2b == False:b2 = 0
+    if birinciInput == "b3":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b3 = 1
+        if ikinciInput == "2" and not b3 == 1:
+            b3b = not b3b
+            if b3b == True:b3 = 2
+            if b3b == False:b3 = 0
+    if birinciInput == "b4":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b4 = 1
+        if ikinciInput == "2" and not b4 == 1:
+            b4b = not b4b
+            if b4b == True:b4 = 2
+            if b4b == False:b4 = 0
+    if birinciInput == "b5":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b5 = 1
+        if ikinciInput == "2" and not b5 == 1:
+            b5b = not b5b
+            if b5b == True:b5 = 2
+            if b5b == False:b5 = 0
+    if birinciInput == "b6":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b6 = 1
+        if ikinciInput == "2" and not b6 == 1:
+            b6b = not b6b
+            if b6b == True:b6 = 2
+            if b6b == False:b6 = 0
+    if birinciInput == "b7":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b7 = 1
+        if ikinciInput == "2" and not b7 == 1:
+            b7b = not b7b
+            if b7b == True:b7 = 2
+            if b7b == False:b7 = 0
+    if birinciInput == "b8":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b8 = 1
+        if ikinciInput == "2" and not b8 == 1:
+            b8b = not b8b
+            if b8b == True:b8 = 2
+            if b8b == False:b8 = 0
+    if birinciInput == "b9":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b9 = 1
+        if ikinciInput == "2" and not b9 == 1:
+            b9b = not b9b
+            if b9b == True:b9 = 2
+            if b9b == False:b9 = 0
+    if birinciInput == "b10":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b10 = 1
+        if ikinciInput == "2" and not b10 == 1:
+            b10b = not b10b
+            if b10b == True:b10 = 2
+            if b10b == False:b10 = 0
+    if birinciInput == "b11":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b11 = 1
+        if ikinciInput == "2" and not b11 == 1:
+            b11b = not b11b
+            if b11b == True:b11 = 2
+            if b11b == False:b11 = 0
+    if birinciInput == "b12":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b12 = 1
+        if ikinciInput == "2" and not b12 == 1:
+            b12b = not b12b
+            if b12b == True:b12 = 2
+            if b12b == False:b12 = 0
+    if birinciInput == "b13":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b13 = 1
+        if ikinciInput == "2" and not b13 == 1:
+            b13b = not b13b
+            if b13b == True:b13 = 2
+            if b13b == False:b13 = 0
+    if birinciInput == "b14":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b14 = 1
+        if ikinciInput == "2" and not b14 == 1:
+            b14b = not b14b
+            if b14b == True:b14 = 2
+            if b14b == False:b14 = 0
+    if birinciInput == "b15":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b15 = 1
+        if ikinciInput == "2" and not b15 == 1:
+            b15b = not b15b
+            if b15b == True:b15 = 2
+            if b15b == False:b15 = 0
+    if birinciInput == "b16":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b16 = 1
+        if ikinciInput == "2" and not b16 == 1:
+            b16b = not b16b
+            if b16b == True:b16 = 2
+            if b16b == False:b16 = 0
+    if birinciInput == "b17":
+        print("1 - Kutuyu aç")
+        print("2 - Bayrak koy/kaldır")
+        ikinciInput = input()
+        while not ikinciInput == "1" and not ikinciInput == "2":
+            print("1 - Kutuyu aç")
+            print("2 - Bayrak koy/kaldır")
+            ikinciInput = input()
+        if ikinciInput == "1":
+            b17 = 1
+        if ikinciInput == "2" and not b17 == 1:
+            b17b = not b17b
+            if b17b == True:b17 = 2
+            if b17b == False:b17 = 0
 
 
 
