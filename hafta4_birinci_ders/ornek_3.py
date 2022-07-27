@@ -1,0 +1,7 @@
+dnot = int(input("Notunuzu giriniz :"))
+if dnot >= 85:print("Pekiyi")
+if dnot >= 70 and dnot <= 84:print("İyi")
+if dnot >= 60 and dnot <= 69:print("Orta")
+if dnot >= 50 and dnot <= 59:print("Geçer")
+if dnot >= 25 and dnot <= 49:print("Çalışmalısın")
+if dnot >= 0 and dnot <= 24:print("Sanayiye git")
