@@ -127,3 +127,16 @@ if KE < 18.5:print("Zayıf")
 elif KE <= 25:print("Normal")
 elif KE <= 30:print("Kilolu")
 else:print("Obez")
+
+#------------------------------------------------------------#
+print()
+print()
+print()
+#------------------------------------------------------------#
+#1.Ek Soru
+
+print("Bir sayı giriniz.")
+sayi = int(input())
+sayi = sayi/2
+if sayi == int:print("Çift sayı.")
+else:print("Tek sayı.")
