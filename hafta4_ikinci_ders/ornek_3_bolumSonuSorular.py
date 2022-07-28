@@ -55,7 +55,7 @@ print()
 #------------------------------------------------------------#
 #5.Soru
 
-print("Cevap 120")
+print("Cevap 240")
 
 #------------------------------------------------------------#
 print()
@@ -126,3 +126,4 @@ KE = kilo/(boy**2)
 if KE < 18.5:print("Zayıf")
 elif KE <= 25:print("Normal")
 elif KE <= 30:print("Kilolu")
+else:print("Obez")
