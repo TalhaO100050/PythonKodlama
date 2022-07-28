@@ -1,1 +1,1 @@
-# PythonKodlamaKurs
+Phyton kodlama kursunda yaptığımız çalışmalar
