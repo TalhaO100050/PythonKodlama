@@ -6266,7 +6266,6 @@ while oyun == 1:
         #Zorluk Değiştirme Input Part 2
         if birinciInput == "zorluk":
             zorlukt = zorluk
-            cıkısyapma = 0
             zorluk = "1"
             while not zorluk == "kolay" and not zorluk == "normal" and not zorluk == "zor" and not zorluk == "çıkış":
                 print("Zorluk giriniz.")
@@ -6274,10 +6273,6 @@ while oyun == 1:
                 zorluk = input()
             if zorluk == "çıkış":
                 zorluk = zorlukt
-                cıkısyapma = 1
-            else:
-                kk = 0
-            if cıkısyapma == 1:
                 print("           ",zorluk,"oyun")
                 print()
                 print("                    1 1 1 1 1 1 1 1")
@@ -6303,6 +6298,8 @@ while oyun == 1:
                 print()
                 print()
                 print("(zorluk), (nasıl_oynanır) ve ya kutu numaralarını yazınız.")
+            else:
+                kk = 0
 
 
 
