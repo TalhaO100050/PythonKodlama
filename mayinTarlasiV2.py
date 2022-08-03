@@ -1679,7 +1679,7 @@ while oyun == 1:
                 c5b = not c5b
                 if c5b == True:c5 = 2
                 if c5b == False:c5 = 0
-        if birinciInput == "a6":
+        if birinciInput == "c6":
             print("1 - Kutuyu aç")
             print("2 - Bayrak koy/kaldır")
             ikinciInput = input()
