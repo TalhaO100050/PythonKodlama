@@ -105,12 +105,18 @@ liste3 = [7,8,9]
 yeniListe = [liste1,liste2,liste3]
 print(yeniListe)
 
+print()
 
+sebzeler = [["yeşil","ıspanak"],["beyaz","lahana"],["turuncu","havuç"]]
+print(sebzeler[2][1])
 
+print()
 
-
-
-
+birinciListe = [1,2,3]
+ikinciListe = ["a","b","c"]
+ucuncuListe = [40,50,60]
+sonListe = [birinciListe,ikinciListe,ucuncuListe]
+print(sonListe[1][0],sonListe[2][1])
 
 
 
