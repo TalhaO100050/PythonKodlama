@@ -54,6 +54,60 @@ print("Tebrikler")
 print("Türkiye")
 print("Merhaba")
 
+#-----------------------------------------------#
+print()
+print()
+print()
+#-----------------------------------------------#
+#6. Soru
+
+liste = [1,2,3,4,5,6,7]
+print(liste[1:3])
+print(liste[0:3])
+print(liste[3:7])
+print(liste)
+
+#-----------------------------------------------#
+print()
+print()
+print()
+#-----------------------------------------------#
+#7. Soru
+
+isimler = ["ali","veli","ayşe"]                        #
+soyisimler = ["türk","izci","erel"] 
+ad_soy1 = isimler[0] + " " + soyisimler[0]             #
+ad_soy2 = isimler[1] + " " + soyisimler [1]
+ad_soy3 = isimler[2] + " " + soyisimler[2]             #
+print(ad_soy1)                                         #
+print(ad_soy2)
+print(ad_soy3)                                         #
+
+#-----------------------------------------------#
+print()
+print()
+print()
+#-----------------------------------------------#
+#8. Soru
+
+liste = ["bir","iki","dört"]
+print(liste)
+liste.insert(2,"üç")
+liste.append("beş")
+print(liste)
+
+#-----------------------------------------------#
+print()
+print()
+print()
+#-----------------------------------------------#
+#9. Soru
+
+liste = ["birinciVeri","ikinciVeri","üçüncüVeri","dördüncüVeri","beşinciVeri"]
+print(liste[0])
+print(liste[-1])
+
+
 
 
 
