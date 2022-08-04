@@ -107,9 +107,13 @@ liste = ["birinciVeri","ikinciVeri","üçüncüVeri","dördüncüVeri","beşinci
 print(liste[0])
 print(liste[-1])
 
+print()
 
+liste = ["birinciVeri","ikinciVeri","üçüncüVeri","dördüncüVeri","beşinciVeri"]
+listeLen = len(liste)
 
-
+print(liste[0])
+print(liste[listeLen - 1])
 
 
 
