@@ -39,7 +39,20 @@ print()
 print()
 print()
 #----------------------------------------------------------#
-   
+listeSesli = []
+listeSessiz = []
+yazi = "Python üst düzey basit sözdizimine sahip, öğrenmesi oldukça kolay, modülerliği, okunabilirliği destekleyen, platform bağımsız nesne yönelimli yorumlanabilir bir script dilidir."
+sesli = "aeiıuüoö"
+for i in yazi:
+    if i in sesli:
+        listeSesli.append(i)
+    else:
+        if not i == "." and not i == ",":
+            listeSessiz.append(i)
+print("Sesliler =",listeSesli)
+print()
+print("Sessizler =",listeSessiz)
+     
 
 
 
