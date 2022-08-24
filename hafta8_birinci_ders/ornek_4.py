@@ -1,0 +1,15 @@
+import turtle
+kalem = turtle.Turtle()
+kalem.shape("turtle")
+
+kalem.pencolor("red")
+kalem.up()
+kalem.goto(500,0)
+kalem.down()
+kalem.goto(-500,0)
+kalem.up()
+kalem.pencolor("green")
+kalem.goto(0,500)
+kalem.down()
+kalem.goto(0,-500)
+kalem.up()
